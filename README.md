@@ -1,4 +1,4 @@
-## Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)
+## Retrieval-Based Chat-bot on the OpenSubtitle dataset
 
 #### Overview
 
