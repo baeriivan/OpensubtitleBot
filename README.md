@@ -16,9 +16,9 @@ Note: This is only a first draft on the project. Much more pre-processing of the
 Download the [OpenSubtitle dataset](http://opus.lingfil.uu.se/OpenSubtitles2013.php) and extract the archive into `./data`.
 
 
-### Prepare the Data
+#### Prepare the Data (scripts)
 
-After having changed some paths and parameters in the script, lauch:
+After having changed some paths and parameters in the scripts, lauch:
 
 ```
 python3 xml2csv.py
